@@ -6,7 +6,7 @@ This project is a simple web application that allows users to search for GitHub 
 
 ## Live Demo
 
-🚀 **[Try it Live Here](https://imtahirnaseer.github.io/github-Profile-Search/)**
+🚀 **[Try it Live Here](https://imtahirnaseer.github.io/Github-Profile-Search/)**
 
 ---
 
